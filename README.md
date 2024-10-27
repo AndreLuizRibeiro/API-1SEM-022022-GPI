@@ -19,16 +19,16 @@ Este semestre estamos prestando consultoria a um parque de diversões que precis
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2022 | concluido| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/Parque_de_divers%C3%B5es.pdf) | 
-|01 | 20/09/2022 | concluido| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/An%C3%A1lise%2BSWOT%2BGeral%20(1).docx) | 
-|02|  11/10/2022| em progresso |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%202/documento/canvas.docx) | 
-|03| 01/11/2022 | a fazer|[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%203/documento/previsoes.xlsx) | 
-|04| 22/11/2022 |a fazer |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/Estoques.docx) |
-|Feira de Soluções| 06/12/2022 |a fazer |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/relatorio-projeto-integrador-1sem-GPI.docx) | 
+|Kick Off | 30/08/2022 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/Parque_de_divers%C3%B5es.pdf) | 
+|01 | 20/09/2022 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/An%C3%A1lise%2BSWOT%2BGeral%20(1).docx) | 
+|02|  11/10/2022| concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%202/documento/canvas.docx) | 
+|03| 01/11/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%203/documento/previsoes.xlsx) | 
+|04| 22/11/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/Estoques.docx) |
+|Feira de Soluções| 06/12/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/relatorio-projeto-integrador-1sem-GPI.docx) | 
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green" width="40%"/>
 </p>
 
 # Equipe
@@ -55,12 +55,16 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
+[![SPRINT 1](https://img.youtube.com/vi/CZ-jnkz5HN0/0.jpg)](https://youtu.be/CZ-jnkz5HN0)
 
 ## Sprint 2
+[![SPRINT 1](https://img.youtube.com/vi/N6kMzKeBLRE/0.jpg)](https://youtu.be/N6kMzKeBLRE)
 
 ## Sprint 3
+[![SPRINT 1](https://img.youtube.com/vi/3gq0_SZS7tk/0.jpg)](https://youtu.be/3gq0_SZS7tk)
 
 ## Sprint 4
+[![SPRINT 1](https://img.youtube.com/vi/jP2aMdOcnEE/0.jpg)](https://youtu.be/jP2aMdOcnEE)
 
 ## Tecnologias Utilizadas
 
@@ -83,26 +87,40 @@ A equipe demonstrou uma abordagem aberta para a inovação desde o início do pr
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/15)
 
 
 ## Backlog do produto
-
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/imagem/cronograma.png" width="70%"/>
+</p>
 
 ## Burndown
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/imagem/clideo_editor_e3716469d36244b090ff5b241f464cca.gif" width="70%"/>
+</p>
 
+## Sprint 1
+- [x] Kickoff
+- [x] Pesquisa de mercado
+- [x] Analise swot
 
-## Sprint 1 - Concepção
-
-
-## Sprint 2 - Desenvolvimento do Projeto
-
+## Sprint 2
+- [x] Pesquisa demografica
+- [x] Criação do canvas
+- [x] BrainStorm
       
-## Sprint 3 - Implementação
-
+## Sprint 3
+- [x] Novas Atrações
+- [x] Previsões
+- [x] Pesquisa de campo
+- [x] Novas rendas
       
-## Sprint 4 - Operacionalização
-
+## Sprint 4
+- [x] Gestão de Estoques
+- [x] Curva ABC
+- [x] Layout
+- [x] Redução de custos
 
 # Competências desenvolvidas
 
@@ -113,12 +131,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trello | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Powerpoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Sketchup | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -128,12 +147,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
@@ -141,6 +160,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Eric Nassif | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| André Ribeiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Edimar Ferreira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Vitor Fernando | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
